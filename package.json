@@ -26,7 +26,7 @@
     "react": ">=15.0.0"
   },
   "dependencies": {
-    "object-assign": "^4.1.0",
+    "object-assign": "^4.1.0"
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
